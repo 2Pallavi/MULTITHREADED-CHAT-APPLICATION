@@ -32,3 +32,6 @@ User Identification: Each user enters their name when connecting so messages are
 Simple Console Interface: Both server and clients run in the console for easy testing and use.
 
 *output :
+![Image](https://github.com/user-attachments/assets/eb2ace91-3d0b-45c3-be90-cc9e6cf93499)
+
+![Image](https://github.com/user-attachments/assets/7ba0fd2a-1252-4bc3-ad97-2b8316feeac0)
